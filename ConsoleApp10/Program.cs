@@ -25,6 +25,7 @@ namespace ConsoleApp10
         {
             int max1 = 10000;
             int max2 = 10000;
+
             Random rm = new Random();
 
             Stopwatch stopwatch = new Stopwatch();
