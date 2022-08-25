@@ -102,7 +102,8 @@ namespace ConsoleApp10
                 }
             }
 
-            Console.WriteLine("Complexity of 2nd = O(N log(N))");           
+            Console.WriteLine("Complexity of 2nd = O(N log(N))"); 
+            //actually  O( (N1 + N2) log(N2), where N1 = a1.Length, N2 = a2.Length          
         }
     }
 }
